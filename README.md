@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[CodersRank Profile](https://profile.codersrank.io/user/texpert/)
+
 <div id="statistics_skills_block_id" align="center" style="align-content: center; text-align:center;">
   <img 
     src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=texpert&badges=3&show-avatar=false&style=--border-radius:10px&layout=auto" 
